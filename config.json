@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailsave",
+        "uuid": 4472028,
+        "checksum": "v8wyo"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
